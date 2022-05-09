@@ -15,16 +15,16 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=stanykey&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="stanykey's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanykey&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=stanykey&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="stanykey's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanykey&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 <a href="https://github.com/stanykey/artishko-scripts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stanykey&repo=artishko-scripts&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stanykey&repo=artishko-scripts&theme=onedark" />
 </a>
 <a href="https://github.com/stanykey/rapidfort-task">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stanykey&repo=rapidfort-task&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stanykey&repo=rapidfort-task&theme=onedark" />
 </a>
 
 <br />
