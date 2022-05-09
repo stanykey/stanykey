@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**stanykey/stanykey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I’ve been working in tech for about 15 years now and I’m ready to meet GitHub much closer and I’m currently working on replacing all "..." below 😄
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Stats](https://github-readme-stats.vercel.app/api?username=stanykey&show_icons=true&theme=gruvbox)
