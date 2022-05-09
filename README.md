@@ -21,14 +21,12 @@
 </div>
 
 #### Top Repositories
-<div>
-  <a href="https://github.com/stanykey/artishko-scripts">
-    <img height="135px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stanykey&repo=artishko-scripts&theme=onedark" />
-  </a>
-  <a href="https://github.com/stanykey/rapidfort-task">
-    <img height="135px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stanykey&repo=rapidfort-task&theme=onedark" />
-  </a>
-</div>
+<a href="https://github.com/stanykey/artishko-scripts">
+  <img height="135px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stanykey&repo=artishko-scripts&theme=onedark" />
+</a>
+<a href="https://github.com/stanykey/rapidfort-task">
+  <img height="135px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stanykey&repo=rapidfort-task&theme=onedark" />
+</a>
 
 <br />
 <br />
