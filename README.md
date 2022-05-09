@@ -14,18 +14,21 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=stanykey&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="stanykey's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanykey&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+#### Repository stats
+<div>
+  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=stanykey&theme=onedark&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21" alt="stanykey's github stats" />
+  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanykey&theme=onedark&show_icons=true&hide_title=true&hide_border=true&layout=compact&line_height=21" />
+</div>
 
 #### Top Repositories
-
-<a href="https://github.com/stanykey/artishko-scripts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stanykey&repo=artishko-scripts&theme=onedark" />
-</a>
-<a href="https://github.com/stanykey/rapidfort-task">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stanykey&repo=rapidfort-task&theme=onedark" />
-</a>
+<div>
+  <a href="https://github.com/stanykey/artishko-scripts">
+    <img height="135px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stanykey&repo=artishko-scripts&theme=onedark" />
+  </a>
+  <a href="https://github.com/stanykey/rapidfort-task">
+    <img height="135px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stanykey&repo=rapidfort-task&theme=onedark" />
+  </a>
+</div>
 
 <br />
 <br />
