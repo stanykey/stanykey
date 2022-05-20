@@ -21,12 +21,12 @@
 </div>
 
 #### Playground Repositories
+  <a href="https://github.com/stanykey/wheels">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stanykey&repo=wheels&theme=onedark" />
+  </a>
 <div>
   <a href="https://github.com/stanykey/artishko-scripts">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=stanykey&repo=artishko-scripts&theme=onedark" />
-  </a>
-  <a href="https://github.com/stanykey/rapidfort-task">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stanykey&repo=rapidfort-task&theme=onedark" />
   </a>
 <div>
 
