@@ -16,17 +16,17 @@
 
 #### Repository stats
 <div>
-  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=stanykey&theme=onedark&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21" alt="stanykey's github stats" />
-  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanykey&theme=onedark&show_icons=true&hide_title=true&hide_border=true&layout=compact&line_height=21" />
+  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=stanykey&theme=buefy&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21" alt="stanykey's github stats" />
+  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanykey&theme=buefy&show_icons=true&hide_title=true&layout=compact&line_height=21" />
 </div>
 
 #### Playground Repositories
-  <a href="https://github.com/stanykey/wheels">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stanykey&repo=wheels&theme=onedark" />
-  </a>
 <div>
+  <a href="https://github.com/stanykey/wheels">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stanykey&repo=wheels&theme=buefy" />
+  </a>
   <a href="https://github.com/stanykey/artishko-scripts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stanykey&repo=artishko-scripts&theme=onedark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stanykey&repo=artishko-scripts&theme=buefy" />
   </a>
 <div>
 
