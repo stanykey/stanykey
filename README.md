@@ -25,8 +25,8 @@
   <a href="https://github.com/stanykey/wheels">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=stanykey&repo=wheels&theme=buefy" />
   </a>
-  <a href="https://github.com/stanykey/artishko-scripts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stanykey&repo=artishko-scripts&theme=buefy" />
+  <a href="https://github.com/stanykey/puzzles">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stanykey&repo=puzzles&theme=buefy" />
   </a>
 <div>
 
