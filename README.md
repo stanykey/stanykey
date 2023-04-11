@@ -26,7 +26,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=stanykey&repo=wheels&theme=buefy" />
   </a>
   <a href="https://github.com/stanykey/shell-tools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stanykey&repo=puzzles&theme=buefy" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stanykey&repo=shell-tools&theme=buefy" />
   </a>
 <div>
 
