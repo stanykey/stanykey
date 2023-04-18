@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on meeting with github more closely
+- 🔭 I'm currently discovering on becoming more familiar with non-git features of GitHub
 - 🌱 I’m currently repeating [algorithms at Coursera](https://www.coursera.org/learn/algorithms-part1)
 - 👯 I’m looking to collaborate on something fun 
-- ⚡  Fun fact: I try to do as less as can to meet goals but when I need to choose between spending 30 mins to do something manually and spending 5 hours making a script that does it all in 30secs, then I will pick the second way. 😄
+- ⚡  Fun fact: I try to do as little as possible to meet goals, but when I need to choose between spending 30 mins to do something by hand or spending 5 hours making a script that does it all in 30secs, I will pick the second way. 😄
 
 **Summary**
 - Overall 15 years of working experience in tech
 - Expertise in C++, Python, Cross-platform development, R&D, Distributed and client-server applications
 - Hard-working when doing R&D or refactoring 😄
-- Main working credo: how to do nothing to make everything work!
+- Main working philosophy: how to do nothing and make everything work!
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
