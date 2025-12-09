@@ -13,25 +13,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-#### Repository Insights
-<div>
-  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=stanykey&theme=buefy&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21" alt="stanykey's github stats" />
-  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanykey&theme=buefy&show_icons=true&hide_title=true&layout=compact&line_height=21" />
-</div>
-
-#### Projects Showcase
-<div>
-  <a href="https://github.com/stanykey/wheels">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stanykey&repo=wheels&theme=buefy" />
-  </a>
-  <a href="https://github.com/stanykey/shell-tools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stanykey&repo=shell-tools&theme=buefy" />
-  </a>
-<div>
-
-<br />
-<br />
-
 ![Snake animation](https://github.com/stanykey/stanykey/blob/output/github-contribution-grid-snake.svg)
 
 ---
