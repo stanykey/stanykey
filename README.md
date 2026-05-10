@@ -1,18 +1,24 @@
 ### Hi there 👋
 
-- 🔭 These days, I'm exploring the non-Git parts of GitHub and getting more familiar with the platform's broader feature set.
-- 🌱 I'm currently revisiting algorithms through a Coursera course to sharpen my fundamentals.
-- ⚡ Fun fact: I try to do as little as possible to get the job done, but if the choice is between doing something manually in 30 minutes or spending a few hours writing a script that will do it in 30 seconds, I'll usually write the script 😄
+* 🌱 Currently sharpening and refreshing my fundamentals through challenges on [Codecrafters](https://app.codecrafters.io/catalog).
+* 🛠️ Recently started learning a bit of DevOps to widen my world and better understand the infrastructure side of things.
+* 🍓 Also taking aim at the embedded world — experimenting with Raspberry Pi and related low-level stuff.
+* ⚡ Fun fact: I try to do as little as possible to get the job done — but if the choice is between doing something manually in 30 minutes or spending a few hours automating it into a 30-second script, I’ll probably write the script 😄
 
-**A Brief Overview:**
-- 15 years of experience in tech overall
-- Expertise in C++, Python, cross-platform development, R&D, and distributed/client-server applications
-- I enjoy refactoring and research 😄
-- Main working philosophy: how to do nothing and make everything work!
-- The repositories pinned here are mostly the ones I need handy at the moment, rather than a curated showcase.
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+### A Brief Overview
+
+* 15 years of experience in software engineering
+* Strong background in C++, Python, cross-platform development, R&D, and distributed/client-server systems
+* I genuinely enjoy refactoring, debugging, and research 😄
+* Main philosophy: *how to do nothing and still make everything work*
+* The pinned repositories are mostly projects I currently need quick access to, rather than a curated portfolio
+
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg"></code>
 
 ![Snake animation](https://github.com/stanykey/stanykey/blob/output/github-contribution-grid-snake.svg)
 
